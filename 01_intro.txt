@@ -3,8 +3,8 @@
 
 立ち読みでけっこう拾い読みしてたこともあるし、頭から一章ずつ消化していくよりも読みたい章から先に読んでいったほうがいいと思うので、あんまり目次の順番を意識せずにやっていこう。
 
-- <a href="http://d.hatena.ne.jp/a666666/searchdiary?word=">Javascript: The Good Parts</a>
-- <a href="http://d.hatena.ne.jp/a666666/archive?word=">Javascript: The Good Parts (見だし一覧)</a>
+- <a href="http://d.hatena.ne.jp/a666666/searchdiary?word=*[Javascript%20The%20Good%20Parts]">Javascript: The Good Parts</a>
+- <a href="http://d.hatena.ne.jp/a666666/archive?word=*[Javascript%20The%20Good%20Parts]">Javascript: The Good Parts (見だし一覧)</a>
 - [http://github.com/kyanny/javascript_the_good_parts:title]
 [asin:4873113911:detail]
 
