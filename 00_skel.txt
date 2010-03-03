@@ -1,4 +1,4 @@
-*[Javascript][Rails][Javascript: The Good Parts]
+*[Javascript][Javascript: The Good Parts]
 
 
 - <a href="http://d.hatena.ne.jp/a666666/searchdiary?word=">Javascript: The Good Parts</a>

@@ -1,4 +1,4 @@
-*[Javascript][Rails][Javascript: The Good Parts]Javascript: The Good Parts を読み始めた
+*[Javascript][Javascript: The Good Parts]Javascript: The Good Parts を読み始めた
 うっかり買ってから一週間以上積んでしまったので、またブログにメモをとりつつ読んでいくことにした。薄くて持ち運びしやすいから通勤時間にも読めるし。
 
 立ち読みでけっこう拾い読みしてたこともあるし、頭から一章ずつ消化していくよりも読みたい章から先に読んでいったほうがいいと思うので、あんまり目次の順番を意識せずにやっていこう。
