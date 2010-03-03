@@ -1,0 +1,9 @@
+*[Javascript][Rails][Javascript: The Good Parts]
+
+
+- <a href="http://d.hatena.ne.jp/a666666/searchdiary?word=">Javascript: The Good Parts</a>
+- <a href="http://d.hatena.ne.jp/a666666/archive?word=">Javascript: The Good Parts (見だし一覧)</a>
+- [http://github.com/kyanny/javascript_the_good_parts:title]
+
+
+<!-- **************************************** -->
