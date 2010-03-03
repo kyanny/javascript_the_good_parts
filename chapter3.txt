@@ -1,0 +1,44 @@
+*[Javascript][Javascript The Good Parts]3章 オブジェクト
+
+- オブジェクト以外の型の変数は immutable
+- オブジェクトがクラスの概念をもたない
+- 他のオブジェクトのプロパティを継承できる
+- オブジェクトリテラル
+>||
+var empty_object = {};
+||<
+- 値の取得
+>||
+stooge["first-name"]
+flight.departure.IATA
+||<
+-- 存在しないプロパティにアクセスすると undefined が返る
+-- undefined のプロパティにアクセスすると TypeError
+>||
+var undef_obj = {};
+undef_obj.foo // error
+undef_obj && undef.foo // ok
+||<
+- 値の更新
+- = で代入すればよい
+- オブジェクトは参照渡しされる
+- プロトタイプ (!)
+>>
+すべてのオブジェクトは、プロトタイプオブジェクトとリンクしていて、そこからプロパティを継承している。オブジェクトリテラルによって作られたオブジェクトはすべて、 Javascript 標準の Object.prototype オブジェクトとリンクしている。
+<<
+- オブジェクトのプロパティを参照するとき、自分自身がそのプロパティを持っていなければ prototype をたどって探す。
+- プロトタイプチェーン (!)
+>>
+プロトタイプの結びつきは、動的なものである。プロトタイプオブジェクトに新しいプロパティを追加した場合、そのプロパティはその瞬間から、そのオブジェクトをプロトタイプとするオブジェクトすべてにおいてもアクセス可能になる。
+<<
+
+
+つづく
+
+
+- <a href="http://d.hatena.ne.jp/a666666/searchdiary?word=*[Javascript%20The%20Good%20Parts]">Javascript: The Good Parts</a>
+- <a href="http://d.hatena.ne.jp/a666666/archive?word=*[Javascript%20The%20Good%20Parts]">Javascript: The Good Parts (見だし一覧)</a>
+- [http://github.com/kyanny/javascript_the_good_parts:title]
+[asin:4873113911:detail]
+
+<!-- **************************************** -->
